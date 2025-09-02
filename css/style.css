@@ -1,0 +1,16 @@
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background: #ffe6f0;
+  color: #660033;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #ff69b4;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 3rem;
+  text-shadow: 2px 2px 5px rgba(255, 105, 180, 0.5);
+}
+
+/*# sourceMappingURL=style.css.map */

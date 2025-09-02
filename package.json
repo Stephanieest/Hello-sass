@@ -1,0 +1,18 @@
+{
+  "name": "sass-hello-world",
+  "version": "1.0.0",
+  "description": "A minimal Hello World project styled with Sass (Comic Sans + pink theme)",
+  "main": "index.html",
+  "scripts": {
+    "compile-sass": "sass src/style.sass css/style.css",           // compile once
+    "watch-sass": "sass --watch src/style.sass css/style.css",    // auto-compile on changes
+    "build": "sass src/style.sass css/style.css --style compressed" // minified build
+  },
+  "keywords": ["sass", "hello world", "comic sans", "pink", "girly"],
+  "author": "Stephanie Njonjo",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.91.0"
+  }
+}
+
