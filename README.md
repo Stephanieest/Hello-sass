@@ -40,4 +40,4 @@
 *Thank you for exploring this Sass learning project! This demonstrates the power of CSS preprocessing and how AI can accelerate your learning journey. Happy coding! 🌈✨*
 
 ## 📄 Copyright & License
-© 2024 Stephanie Njonjo. All rights reserved. This project is part of Moringa School's AI Capstone Project and is licensed under the MIT License.
+© 2025 Stephanie Njonjo. All rights reserved. This project is part of Moringa School's AI Capstone Project and is licensed under the MIT License.
